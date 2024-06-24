@@ -1,0 +1,30 @@
+body{
+    background: url(fondo_logo.jpg);
+    background-repeat: no-repeat;
+    height: 50px;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+
+
+.sedan-sc-regular{
+    font-family: "Sedan SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+.inicio{
+    margin-top: 150px;
+    text-align: center;
+    font-family: 'Sedan SC';
+    font-size: 200px;
+
+
+
+}
