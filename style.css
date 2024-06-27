@@ -29,3 +29,13 @@ body{
 
 
 }
+
+.seccion1{
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 95%;
+    min-height: 25%;
+    margin: 3%;
+    padding: 2%;
+    overflow: hidden;
+    border-radius: 10px;
+}
