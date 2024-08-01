@@ -118,3 +118,38 @@ body{
     text-align: center;
     padding: 2%;
 }
+
+
+
+.trees{
+    display: flex;
+    justify-self: center;
+    align-content: center;
+    width: 65%;
+    background-color: rgba(140, 180, 0, 0.7);
+    margin: 5%;
+    padding: 1%;
+    overflow: hidden;
+    border-radius: 10px;
+    
+}
+
+.trees-content{
+    
+    margin: 3%;
+    display: inline-block;
+}
+
+.trees img{
+    margin-right: 2%;
+    float: left;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    
+}
+
+#color{
+    background-color: rgba(red, green, blue, 0);
+}
