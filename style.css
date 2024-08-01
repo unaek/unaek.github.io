@@ -18,7 +18,7 @@ body{
     margin-top: 20%;
     text-align: center;
     font-family: 'Sedan SC';
-    font-size: 1200%;
+    font-size: 1000%;
     margin-bottom: 300px;
 
 
@@ -37,10 +37,11 @@ body{
 
 .miniseccion{
     align-content: center;
-    width: 65%;
+    width: 70%;
     min-height: 25vh;
     background-color: rgba(140, 180, 0, 0.7);
     margin: 1%;
+    margin-bottom: 20%;
     padding: 1%;
     overflow: hidden;
     border-radius: 10px;
@@ -122,12 +123,15 @@ body{
 
 
 .trees{
+    margin: 5%;
+    margin-left: 17.5%;
+    margin-right: 17.5%;
     display: flex;
     justify-self: center;
     align-content: center;
     width: 65%;
     background-color: rgba(140, 180, 0, 0.7);
-    margin: 5%;
+    
     padding: 1%;
     overflow: hidden;
     border-radius: 10px;
@@ -148,8 +152,4 @@ body{
     height: 120px;
     object-fit: cover;
     
-}
-
-#color{
-    background-color: rgba(red, green, blue, 0);
 }
