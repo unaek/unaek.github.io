@@ -10,7 +10,7 @@ body{
 
 .sedan-sc-regular{
     font-family: "Sedan SC", serif;
-    font-weight: 400;
+    font-weight: 400%;
     font-style: normal;
 }
 
@@ -42,6 +42,8 @@ body{
     background-color: rgba(140, 180, 0, 0.7);
     margin: 1%;
     margin-bottom: 20%;
+    margin-left: 15%;
+    margin-right: 15%;
     padding: 1%;
     overflow: hidden;
     border-radius: 10px;
@@ -86,6 +88,7 @@ body{
 
 
 
+
 .nosotros{
     margin: 2%;
     padding: 1%;
@@ -94,14 +97,14 @@ body{
     text-align: center;
     background-color: rgba(140, 180, 0, 0.7);
     width: 250px;
-    min-height: 250px;
+    height: 400px;
     display: inline-block;
     
 }
 
 .nosotros img{
     width: 100%;
-    height: 100%;  
+    height: 80%;  
     border-radius: 10px;
     margin-bottom: 5%;
     
