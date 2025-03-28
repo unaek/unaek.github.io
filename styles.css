@@ -21,7 +21,7 @@ body{
 
 .titulo{
     display: inline-block;
-    height: 400px;
+    height: 50%;
     margin-inline: 5%;
     margin-top: 5%;
 }
@@ -56,19 +56,12 @@ footer{
 }
 
 .imagen{
-    height: 500px;
+    height: 40%;
     border-radius: 10px;
     margin: 2%;
 
 }
 
-.carrousel{
-    border-radius: 10px;
-    margin: 5%;
-    align-items:center;
-    
-    max-height: 200px;
-}
 
 .indie-flower-regular {
     font-family: "Indie Flower", cursive;
