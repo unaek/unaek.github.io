@@ -21,11 +21,7 @@ body{
 
 .titulo{
     display: inline-block;
-<<<<<<< HEAD
     height: 400px;
-=======
-    height: 50%;
->>>>>>> 02c278b7cb85d1ec1a23a2b179c8664e5fbf488c
     margin-inline: 5%;
     margin-top: 5%;
 }
@@ -60,17 +56,12 @@ footer{
 }
 
 .imagen{
-<<<<<<< HEAD
     height: 500px;
-=======
-    height: 40%;
->>>>>>> 02c278b7cb85d1ec1a23a2b179c8664e5fbf488c
     border-radius: 10px;
     margin: 2%;
 
 }
 
-<<<<<<< HEAD
 .carrousel{
     border-radius: 10px;
     margin: 5%;
@@ -78,8 +69,6 @@ footer{
     
     max-height: 200px;
 }
-=======
->>>>>>> 02c278b7cb85d1ec1a23a2b179c8664e5fbf488c
 
 .indie-flower-regular {
     font-family: "Indie Flower", cursive;
