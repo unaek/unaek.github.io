@@ -1,0 +1,77 @@
+body{
+    background-image: url('https://cdna.artstation.com/p/assets/images/images/011/305/822/large/dirk-henschel-family-guy-3d-final.jpg?1528902492');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.seccion{
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-inline: 10%;
+    margin-top: 5%;
+    margin-bottom: 1%;
+    padding: 2%;
+    font-size: 20px;
+}
+
+.seccion img{
+    border-radius: 10px;
+
+}
+
+.titulo{
+    display: inline-block;
+    height: 400px;
+    margin-inline: 5%;
+    margin-top: 5%;
+}
+.titulo h1{
+    font-family: "Indie Flower", cursive;
+    font-style: normal;
+    font-size: 100px;
+    font-weight: 900;
+    color: aliceblue;
+    
+}
+
+.nav{
+    position: fixed;
+}
+
+.gif{
+    display: inline-block;
+}
+
+footer{
+    margin-top: 7%;
+    padding: 2%;
+    background-color: rgba(255, 250, 250, 0.8);
+    width: 100%;
+
+}
+
+.links{
+    color:darkslategray;
+    
+}
+
+.imagen{
+    height: 500px;
+    border-radius: 10px;
+    margin: 2%;
+
+}
+
+.carrousel{
+    border-radius: 10px;
+    margin: 5%;
+    align-items:center;
+    
+    max-height: 200px;
+}
+
+.indie-flower-regular {
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
